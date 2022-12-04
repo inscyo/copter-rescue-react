@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/copter-rescue-react/static/css/main.0749b932.css",
+    "main.js": "/copter-rescue-react/static/js/main.7bb5104f.js",
+    "static/media/IndianTypeFoundry-Poppins-Regular.ttf": "/copter-rescue-react/static/media/IndianTypeFoundry-Poppins-Regular.04c510bccbab1d07baf3.ttf",
+    "static/media/IndianTypeFoundry-Poppins-Semi-bold.ttf": "/copter-rescue-react/static/media/IndianTypeFoundry-Poppins-Semi-bold.ba0204370599d42ca72e.ttf",
+    "static/media/PressStart2P.ttf": "/copter-rescue-react/static/media/PressStart2P.2ebf1a35a67b4271603e.ttf",
+    "static/media/ethnocentric-rg.ttf": "/copter-rescue-react/static/media/ethnocentric-rg.8d07608882f4d41602df.ttf",
+    "static/media/PatchyRobots.ttf": "/copter-rescue-react/static/media/PatchyRobots.8b2c2cc8dbf90047a097.ttf",
+    "static/media/LuckiestGuy-Regular.ttf": "/copter-rescue-react/static/media/LuckiestGuy-Regular.04dea529d3802106e6d7.ttf",
+    "static/media/RetroGaming.ttf": "/copter-rescue-react/static/media/RetroGaming.c1a52a602585b2d6baf8.ttf",
+    "static/media/ARCADECLASSIC.TTF": "/copter-rescue-react/static/media/ARCADECLASSIC.8f36b955d042951fd3af.TTF",
+    "index.html": "/copter-rescue-react/index.html",
+    "main.0749b932.css.map": "/copter-rescue-react/static/css/main.0749b932.css.map",
+    "main.7bb5104f.js.map": "/copter-rescue-react/static/js/main.7bb5104f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0749b932.css",
+    "static/js/main.7bb5104f.js"
+  ]
+}

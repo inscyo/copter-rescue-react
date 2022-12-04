@@ -1,0 +1,176 @@
+{
+    "maps": 
+    [
+        {
+        "background": "gui/backgrounds/bg/map_desert.png", 
+        "objects": [
+                "gui/backgrounds/obj/map_desert/2.png", 
+                "gui/backgrounds/obj/map_desert/3.png", 
+                "gui/backgrounds/obj/map_desert/4.png", 
+                "gui/backgrounds/obj/map_desert/5.png", 
+                "gui/backgrounds/obj/map_desert/7.png", 
+                "gui/backgrounds/obj/map_desert/8.png", 
+                "gui/backgrounds/obj/map_desert/9.png", 
+                "gui/backgrounds/obj/map_desert/10.png", 
+                "gui/backgrounds/obj/map_desert/16.png"
+            ]
+        },
+        {
+        "background": "gui/backgrounds/bg/map_snowy.png", 
+        "objects": [
+                "gui/backgrounds/obj/map_snowy/1.png", 
+                "gui/backgrounds/obj/map_snowy/2.png", 
+                "gui/backgrounds/obj/map_snowy/3.png", 
+                "gui/backgrounds/obj/map_snowy/4.png"
+            ]
+        }
+    ],
+    "clouds": ["gui/userinterface/cloud/cloud01.png", "gui/userinterface/cloud/cloud02.png"],
+    "planes": [
+        {
+            "type": "01",
+            "copters": [
+                "gui/players/copters/01/plane01.png", 
+                "gui/players/copters/01/plane02.png", 
+                "gui/players/copters/01/plane03.png", 
+                "gui/players/copters/01/plane04.png"
+            ]
+        },
+        {
+            "type": "02",
+            "copters": [
+                "gui/players/copters/02/plane01.png", 
+                "gui/players/copters/02/plane02.png", 
+                "gui/players/copters/02/plane03.png", 
+                "gui/players/copters/02/plane04.png"
+            ]
+        },
+        {
+            "type": "03",
+            "copters": [
+                "gui/players/copters/03/plane01.png", 
+                "gui/players/copters/03/plane02.png", 
+                "gui/players/copters/03/plane03.png", 
+                "gui/players/copters/03/plane04.png"
+            ]
+        },
+        {
+            "type": "04",
+            "copters": [
+                "gui/players/copters/04/plane01.png", 
+                "gui/players/copters/04/plane02.png", 
+                "gui/players/copters/04/plane03.png", 
+                "gui/players/copters/04/plane04.png"
+            ]
+        },
+        {
+            "type": "05",
+            "copters": [
+                "gui/players/copters/05/plane01.png", 
+                "gui/players/copters/05/plane02.png", 
+                "gui/players/copters/05/plane03.png", 
+                "gui/players/copters/05/plane04.png"
+            ]
+        },
+        {
+            "type": "06",
+            "copters": [
+                "gui/players/copters/06/plane01.png", 
+                "gui/players/copters/06/plane02.png", 
+                "gui/players/copters/06/plane03.png", 
+                "gui/players/copters/06/plane04.png"
+            ]
+        },
+        {
+            "type": "07",
+            "copters": [
+                "gui/players/copters/07/plane01.png", 
+                "gui/players/copters/07/plane02.png", 
+                "gui/players/copters/07/plane03.png", 
+                "gui/players/copters/07/plane04.png"
+            ]
+        },
+        {
+            "type": "08",
+            "copters": [
+                "gui/players/copters/08/plane01.png", 
+                "gui/players/copters/08/plane02.png", 
+                "gui/players/copters/08/plane03.png", 
+                "gui/players/copters/08/plane04.png"
+            ]
+        },
+        {
+            "type": "09",
+            "copters": [
+                "gui/players/copters/09/plane01.png", 
+                "gui/players/copters/09/plane02.png", 
+                "gui/players/copters/09/plane03.png", 
+                "gui/players/copters/09/plane04.png"
+            ]
+        }
+    ],
+    "bullets": [
+        { "type": "01", "bullet": "gui/bullets/01.png" },
+        { "type": "02", "bullet": "gui/bullets/02.png" },
+        { "type": "03", "bullet": "gui/bullets/03.png" },
+        { "type": "04", "bullet": "gui/bullets/04.png" },
+        { "type": "05", "bullet": "gui/bullets/05.png" },
+        { "type": "06", "bullet": "gui/bullets/06.png" },
+        { "type": "07", "bullet": "gui/bullets/07.png" },
+        { "type": "08", "bullet": "gui/bullets/08.png" },
+        { "type": "09", "bullet": "gui/bullets/09.png" }
+    ],
+    "enemies": [
+        {
+            "type": "planes",
+            "vehicles": [
+                "gui/enemies/planes/Enemy02.png", 
+                "gui/enemies/planes/Enemy03.png", 
+                "gui/enemies/planes/Enemy04.png", 
+                "gui/enemies/planes/Enemy06.png", 
+                "gui/enemies/planes/Enemy07.png", 
+                "gui/enemies/planes/Enemy10.png", 
+                "gui/enemies/planes/Enemy11.png"
+            ]
+        },
+        {
+            "type": "tanks",
+            "vehicles": [
+                "gui/enemies/tanks/Enemy12.png", 
+                "gui/enemies/tanks/Enemy15.png"
+            ]
+        },
+        {
+            "type": "ufo",
+            "vehicles": [
+                "gui/enemies/ufos/Enemy01.png", 
+                "gui/enemies/ufos/Enemy05.png", 
+                "gui/enemies/ufos/Enemy08.png", 
+                "gui/enemies/ufos/Enemy13.png", 
+                "gui/enemies/ufos/Enemy14.png"
+            ]
+        }
+    ],
+    "gains": {
+        "peoples": [
+           ["gui/gains/peoples/BlueShirtSprite01.png", "gui/gains/peoples/BlueShirtSprite02.png"],
+           ["gui/gains/peoples/GreenShirtSprite01.png", "gui/gains/peoples/GreenShirtSprite02.png"],
+           ["gui/gains/peoples/RedShirtSprite01.png", "gui/gains/peoples/RedShirtSprite02.png"]
+        ],
+        "boxes": [
+            ["gui/gains/boxes/bombboxsprite01.png", "gui/gains/boxes/bombboxsprite02.png"],
+            ["gui/gains/boxes/CoinBoxSprite01.png", "gui/gains/boxes/CoinBoxSprite02.png"],
+            ["gui/gains/boxes/HealthBoxSprite01.png", "gui/gains/boxes/HealthBoxSprite02.png"]
+         ]
+   },
+   "powers": {
+        "planes": ["gui/powers/planes/Power0.png", "gui/powers/planes/Power1.png", "gui/powers/planes/Power2.png"]
+   },
+   "audio": {
+        "theme": [
+            "gui/1.webm"
+        ],
+        "beam": ["gui/beam.mp3"],
+        "explosion": ["gui/explosion1.wav"]
+   }
+}
