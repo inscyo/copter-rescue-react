@@ -30,10 +30,10 @@
         {
             "type": "01",
             "copters": [
-                "gui/players/copters/01/plane01.png", 
-                "gui/players/copters/01/plane02.png", 
-                "gui/players/copters/01/plane03.png", 
-                "gui/players/copters/01/plane04.png"
+                "gui/players/copters/01/Plane01.png", 
+                "gui/players/copters/01/Plane02.png", 
+                "gui/players/copters/01/Plane03.png", 
+                "gui/players/copters/01/Plane04.png"
             ]
         },
         {
