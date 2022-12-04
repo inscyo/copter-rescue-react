@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/copter-rescue-react/static/css/main.0749b932.css",
-    "main.js": "/copter-rescue-react/static/js/main.7bb5104f.js",
+    "main.js": "/copter-rescue-react/static/js/main.74ea13d7.js",
     "static/media/IndianTypeFoundry-Poppins-Regular.ttf": "/copter-rescue-react/static/media/IndianTypeFoundry-Poppins-Regular.04c510bccbab1d07baf3.ttf",
     "static/media/IndianTypeFoundry-Poppins-Semi-bold.ttf": "/copter-rescue-react/static/media/IndianTypeFoundry-Poppins-Semi-bold.ba0204370599d42ca72e.ttf",
     "static/media/PressStart2P.ttf": "/copter-rescue-react/static/media/PressStart2P.2ebf1a35a67b4271603e.ttf",
@@ -12,10 +12,10 @@
     "static/media/ARCADECLASSIC.TTF": "/copter-rescue-react/static/media/ARCADECLASSIC.8f36b955d042951fd3af.TTF",
     "index.html": "/copter-rescue-react/index.html",
     "main.0749b932.css.map": "/copter-rescue-react/static/css/main.0749b932.css.map",
-    "main.7bb5104f.js.map": "/copter-rescue-react/static/js/main.7bb5104f.js.map"
+    "main.74ea13d7.js.map": "/copter-rescue-react/static/js/main.74ea13d7.js.map"
   },
   "entrypoints": [
     "static/css/main.0749b932.css",
-    "static/js/main.7bb5104f.js"
+    "static/js/main.74ea13d7.js"
   ]
 }
